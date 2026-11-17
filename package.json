@@ -1,0 +1,25 @@
+{
+  "name": "lista-de-usuarios",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/giovannitecads/Lista-de-usuarios#readme",
+  "bugs": {
+    "url": "https://github.com/giovannitecads/Lista-de-usuarios/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovannitecads/Lista-de-usuarios.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dom": "^0.0.3",
+    "react": "^19.3.1",
+    "vite": "^8.3.8"
+  }
+}
